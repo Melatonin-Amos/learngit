@@ -5,3 +5,4 @@ Git tracks changes of files.
 Creating a branch called "dev" is quick.
 I will show it.
 Creating a new branch is quick and simple.
+Managing branches needs strategy.
